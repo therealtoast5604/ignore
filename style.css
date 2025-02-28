@@ -9,6 +9,7 @@ body
  font-family: Arial;
  font-style: italic;
  border-color: black;
+ border-style: dashed;
  border-width: 20px;
  border-radius: 10px; 
 }
