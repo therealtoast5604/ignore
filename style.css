@@ -8,6 +8,7 @@ body
  color: black;
  font-family: Arial;
  font-style: italic;
+ border-color: black;
  border-style: dotted;
  border-radius: 10px; 
 }
