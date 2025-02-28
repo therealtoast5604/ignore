@@ -9,7 +9,7 @@ body
  font-family: Arial;
  font-style: italic;
  border-color: black;
- border-style: dotted;
+ border-width: 2;
  border-radius: 10px; 
 }
 
