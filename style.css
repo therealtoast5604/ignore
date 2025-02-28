@@ -9,8 +9,8 @@ body
  font-family: Arial;
  font-style: italic;
  border-color: black;
- border-style: dashed;
- border-width: 20px;
+ border-style: solid;
+ border-spacing: 50px;
  border-radius: 10px; 
 }
 
