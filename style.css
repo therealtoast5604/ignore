@@ -1,22 +1,5 @@
 body
 {
- background-color: white;
-}
-.skibidi
-{
- color: black;
- font-family: Arial;
- font-style: italic;
- border-color: black;
- border-style: solid;
- border-spacing: 50px;
- border-radius: 10px; 
- text-shadow: 3px 5px 3px;
-}
-
-.text
-{
- color: black;
- font-family: Arial;
- font-style: normal;
+background: rgb(11,0,205);
+background: linear-gradient(180deg, rgba(11,0,205,1) 0%, rgba(93,93,214,1) 35%, rgba(213,93,186,1) 100%);
 }
