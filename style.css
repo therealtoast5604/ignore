@@ -1,9 +1,20 @@
-body{
-background-color: white;
+body
+{
+ background-color: white;
 }
 
-h1{
- color:black;
- font-family: Arial, 'Courier New', Courier;
+.skibidi
+{
+ color: black;
+ font-family: Arial;
  font-style: italic;
+ border-style: dotted;
+ border-radius: 10px; 
+}
+
+.text
+{
+ color: black;
+ font-family: Arial;
+ font-style: normal;
 }
